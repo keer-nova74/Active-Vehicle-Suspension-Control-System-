@@ -1,5 +1,5 @@
 
-# Automotive Suspension System Simulation
+# Active Vehicle Suspension Control System 
 
 This project involves the design and simulation of a quarter-car suspension system using MATLAB Simulink. The goal is to analyze the dynamics of a vehicle's suspension and improve ride comfort through passive components (spring and damper) and active control using a PID controller.
 
