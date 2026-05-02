@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/27299476/README.1.md)
+(https://github.com/user-attachments/files/27299476/README.1.md)
 # Automotive Suspension System Simulation
 
 This project involves the design and simulation of a quarter-car suspension system using MATLAB Simulink. The goal is to analyze the dynamics of a vehicle's suspension and improve ride comfort through passive components (spring and damper) and active control using a PID controller.
