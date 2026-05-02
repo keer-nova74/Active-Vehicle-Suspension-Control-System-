@@ -58,10 +58,6 @@ The simulation models the vertical dynamics of a quarter-car system subjected to
 | Damping Coefficient (cs) | Shock absorber damping ratio |
 | Tire Stiffness (kt) | Tire spring constant |
 
-## 📷 Model Preview
-
-![Quarter Car Suspension Model](Quarter%20Car%20Suspension%20Model.jpg)
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
